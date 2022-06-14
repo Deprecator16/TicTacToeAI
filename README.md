@@ -11,19 +11,19 @@ To change whether the AI uses Minimax or Alpha-Beta Pruning, set the boolean on 
 ```python
 useMinimax = False
 ```
-True -> Uses Minimax
-False -> Uses AlphaBeta
+True -> Uses Minimax  
+False -> Uses AlphaBeta  
 
 To change whether Player X is a human or an AI, set the boolean on line 20 in playTicTacToe.py accordingly:
 ```python
 isHuman = False
 ```
-True -> Human
-False -> AI
+True -> Human  
+False -> AI  
 
 To change whether Player O is a human or an AI, set the boolean on line 27 in playTicTacToe.py accordingly:
 ```python
 isHuman = False
 ```
-True -> Human
-False -> AI
+True -> Human  
+False -> AI  
